@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="100%" height="400px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76119ixrfxsxz39ajvzz17sw6pindwfcmjxvv3hvnkk6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="top" alt="Coding" width="100%" height="350px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76119ixrfxsxz39ajvzz17sw6pindwfcmjxvv3hvnkk6&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 # 💫 About Me:
 🔭 I’m currently working on learning front-end development.<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with mastering JavaScript frameworks.<br>🌱 I’m currently learning HTML, CSS, and JavaScript.<br>💬 Ask me about my journey into front-end development.<br>⚡ Fun fact: I have a passion for exploring new technologies and continuously expanding my knowledge base.
