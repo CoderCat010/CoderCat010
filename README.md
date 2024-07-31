@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 # 💫 About Me:
 🔭 I’m currently working on learning front-end development.<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with mastering JavaScript frameworks.<br>🌱 I’m currently learning HTML, CSS, and JavaScript.<br>💬 Ask me about my journey into front-end development.<br>⚡ Fun fact: I have a passion for exploring new technologies and continuously expanding my knowledge base.
 
