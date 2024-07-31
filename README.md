@@ -1,5 +1,4 @@
-![51540d944aad3d88ee02a6b779e59bf7](https://github.com/user-attachments/assets/f881eb21-a12b-4794-8413-536c7fa320e3)
-
+https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76119ixrfxsxz39ajvzz17sw6pindwfcmjxvv3hvnkk6&ep=v1_gifs_search&rid=giphy.gif&ct=g
 # 💫 About Me:
 🔭 I’m currently working on learning front-end development.<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with mastering JavaScript frameworks.<br>🌱 I’m currently learning HTML, CSS, and JavaScript.<br>💬 Ask me about my journey into front-end development.<br>⚡ Fun fact: I have a passion for exploring new technologies and continuously expanding my knowledge base.
 
