@@ -1,3 +1,4 @@
+![Uploading 748631-large-wallpaper-of-cute-cartoon-1920x1200.jpg…]()
 # 💫 About Me:
 🔭 I’m currently working on learning front-end development.<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with mastering JavaScript frameworks.<br>🌱 I’m currently learning HTML, CSS, and JavaScript.<br>💬 Ask me about my journey into front-end development.<br>⚡ Fun fact: I have a passion for exploring new technologies and continuously expanding my knowledge base.
 
